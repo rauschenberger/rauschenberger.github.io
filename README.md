@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Software
 
-You can use the [editor on GitHub](https://github.com/rauschenberger/rauschenberger.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* [palasso](https://rauschenberger.github.io/palasso/): Paired Lasso Regression ([CRAN](https://cran.r-project.org/package=palasso))
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [semisup](https://rauschenberger.github.io/semisup): Semi-Supervised Mixture Model ([Bioconductor](https://doi.org/doi:10.18129/B9.bioc.semisup))
 
-### Markdown
+* [globalSeq](https://rauschenberger.github.io/globalSeq): Global Test for Counts ([Bioconductor](https://doi.org/doi:10.18129/B9.bioc.globalSeq))
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Manuscripts
 
-```markdown
-Syntax highlighted code block
+* Rauschenberger A, Menezes RX, Jonker MA, and van de Wiel MA (2018). "Sparse regression with paired covariates”, In preparation.
 
-# Header 1
-## Header 2
-### Header 3
+* Rauschenberger A, Menezes RX, van de Wiel MA, van Schoor NM, and Jonker MA (2018). "Detecting SNPs with interactive effects on a quantitative trait", [Preprint](https://arxiv.org/abs/1805.09175).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rauschenberger/rauschenberger.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Rauschenberger A, Jonker MA, van de Wiel MA, and Menezes RX (2016). "Testing for association between RNA-Seq and high-dimensional data", [BMC Bioinformatics 17:118](http://dx.doi.org/10.1186/s12859-016-0961-5).
