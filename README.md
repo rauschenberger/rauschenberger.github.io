@@ -1,8 +1,10 @@
 # Software
 
-* [joinet](https://rauschenberger.github.io/joinet/): Multivariate elastic net regression ([CRAN](https://cran.r-project.org/package=joinet))
+* [starnet](https://rauschenberger.github.io/starnet/): Stacked Elastic Net ([GitHub](https://github.com/rauschenberger/starnet))
 
-* [cornet](https://rauschenberger.github.io/cornet/): Elastic net for dichotomised outcomes ([CRAN](https://cran.r-project.org/package=cornet))
+* [joinet](https://rauschenberger.github.io/joinet/): Multivariate Regression ([CRAN](https://cran.r-project.org/package=joinet))
+
+* [cornet](https://rauschenberger.github.io/cornet/): Dichotomised Outcome Regression ([CRAN](https://cran.r-project.org/package=cornet))
 
 * [palasso](https://rauschenberger.github.io/palasso/): Paired Lasso Regression ([CRAN](https://cran.r-project.org/package=palasso))
 
@@ -12,11 +14,13 @@
 
 # Manuscripts
 
-* Rauschenberger A, and Glaab E (2019) "Improved prediction of correlated outcomes". *In preparation.*
+* Rauschenberger A, Glaab E, and van de Wiel MA (2019) "Predictive and interpretable models via the stacked elastic net". *In preparation*
+
+* Rauschenberger A, and Glaab E (2019) "Improved prediction of correlated outcomes from high-dimensional data". *In preparation.*
 
 * Rauschenberger A, and Glaab E (2019) "Predicting artificial binary outcomes from high-dimensional data". *Submitted.*
 
-* Rauschenberger A, Ciocanea-Teodorescu I, Menezes RX, Jonker MA, and van de Wiel MA (2019). "Sparse classification with paired covariates”. *Accepted.*
+* Rauschenberger A, Ciocanea-Teodorescu I, Menezes RX, Jonker MA, and van de Wiel MA (2019). "Sparse classification with paired covariates”. [*Advances in Data Analysis and Classification*](https://doi.org/10.1007/s11634-019-00375-6)
 
 * Rauschenberger A, Menezes RX, van de Wiel MA, van Schoor NM, and Jonker MA (2018). "Detecting SNPs with interactive effects on a quantitative trait". [Preprint](https://arxiv.org/abs/1805.09175).
 
