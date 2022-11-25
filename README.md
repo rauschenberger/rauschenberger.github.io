@@ -1,4 +1,4 @@
-# Software
+## Software
 
 * [transreg](https://rauschenberger.github.io/transreg/): Transfer learning ([GitHub](https://github.com/rauschenberger/transreg))
 
@@ -14,7 +14,7 @@
 
 * [globalSeq](https://rauschenberger.github.io/globalSeq): Global Test for Counts ([Bioconductor](https://doi.org/10.18129/B9.bioc.globalSeq))
 
-# Manuscripts
+## Manuscripts
 
 * Rauschenberger A, Landoulsi Z, van de Wiel MA, and Glaab E (2022). "Penalised regression with  multiple sources of prior effects". *In preparation*.
 
