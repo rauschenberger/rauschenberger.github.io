@@ -1,8 +1,10 @@
 # Software
 
-* [starnet](https://rauschenberger.github.io/starnet/): Stacked Elastic Net ([GitHub](https://github.com/rauschenberger/starnet))
+* [transreg](https://rauschenberger.github.io/transreg/): Transfer learning ([GitHub](https://github.com/rauschenberger/transreg))
 
 * [joinet](https://rauschenberger.github.io/joinet/): Multivariate Prediction ([CRAN](https://cran.r-project.org/package=joinet))
+
+* [starnet](https://rauschenberger.github.io/starnet/): Stacked Elastic Net ([CRAN](https://cran.r-project.org/package=starnet))
 
 * [cornet](https://rauschenberger.github.io/cornet/): Dichotomised Outcome Regression ([CRAN](https://cran.r-project.org/package=cornet))
 
@@ -14,13 +16,15 @@
 
 # Manuscripts
 
-* Rauschenberger A, Glaab E, and van de Wiel MA (2019) "Predictive and interpretable models via the stacked elastic net". *In preparation.*
+* Rauschenberger A, Landoulsi Z, van de Wiel MA, Glaab E (2022) "Penalised regression with  multiple sources of prior effects". *In preparation*.
 
-* Rauschenberger A, and Glaab E (2019) "Improved prediction of correlated outcomes from high-dimensional data". *In preparation.*
+* Rauschenberger A, Glaab E, and van de Wiel MA (2019) "Predictive and interpretable models via the stacked elastic net". *Bioinformatics* 37(14):2012–2016 [doi: 10.1093/bioinformatics/btaa535](https://doi.org/10.1093/bioinformatics/btaa535) 
+
+* Rauschenberger A, and Glaab E (2021) "Predicting correlated outcomes from molecular data". *Bioinformatics* 37(21):3889–389 [doi: 10.1093/bioinformatics/btab576](https://doi.org/10.1093/bioinformatics/btab576)
 
 * Rauschenberger A, and Glaab E (2019) "Predicting artificial binary outcomes from high-dimensional data". *In preparation.*
 
-* Rauschenberger A, Ciocanea-Teodorescu I, Menezes RX, Jonker MA, and van de Wiel MA (2019). "Sparse classification with paired covariates". *Advances in Data Analysis and Classification* In press. [doi: 10.1007/s11634-019-00375-6](https://doi.org/10.1007/s11634-019-00375-6).
+* Rauschenberger A, Ciocanea-Teodorescu I, Menezes RX, Jonker MA, and van de Wiel MA (2019). "Sparse classification with paired covariates". *Advances in Data Analysis and Classification* 14:571–588 [doi: 10.1007/s11634-019-00375-6](https://doi.org/10.1007/s11634-019-00375-6).
 
 * Rauschenberger A, Menezes RX, van de Wiel MA, van Schoor NM, and Jonker MA (2018). "Detecting SNPs with interactive effects on a quantitative trait". [arXiv: 1805.09175](https://arxiv.org/abs/1805.09175).
 
