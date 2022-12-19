@@ -16,7 +16,7 @@
 
 ## Manuscripts
 
-* Rauschenberger A, Landoulsi Z, van de Wiel MA, and Glaab E (2022). "Penalised regression with  multiple sources of prior effects". *In preparation*.
+* Rauschenberger A, Landoulsi Z, van de Wiel MA, and Glaab E (2022). "Penalised regression with  multiple sources of prior effects". [arXiv: 2212.08581](https://arxiv.org/abs/2212.08581).
 
 * Rauschenberger A, and Glaab E (2021). "Predicting correlated outcomes from molecular data". *Bioinformatics* 37(21):3889–389. [doi: 10.1093/bioinformatics/btab576](https://doi.org/10.1093/bioinformatics/btab576).
 
