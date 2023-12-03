@@ -1,6 +1,6 @@
 ## Software
 
-* [transreg](https://rauschenberger.github.io/transreg/): Transfer learning ([GitHub](https://github.com/rauschenberger/transreg))
+* [transreg](https://rauschenberger.github.io/transreg/): Transfer learning ([CRAN](https://cran.r-project.org/package=transreg))
 
 * [joinet](https://rauschenberger.github.io/joinet/): Multivariate Prediction ([CRAN](https://cran.r-project.org/package=joinet))
 
@@ -16,7 +16,7 @@
 
 ## Manuscripts
 
-* Rauschenberger A, Landoulsi Z, van de Wiel MA, and Glaab E (2023). "Penalised regression with  multiple sources of prior effects". [arXiv: 2212.08581](https://arxiv.org/abs/2212.08581).
+* Rauschenberger A, Landoulsi Z, van de Wiel MA, and Glaab E (2023). "Penalised regression with  multiple sources of prior effects". *Bioinformatics* [doi: 10.1093/bioinformatics/btad680](https://doi.org/10.1093/bioinformatics/btad680).
 
 * Rauschenberger A, and Glaab E (2021). "Predicting correlated outcomes from molecular data". *Bioinformatics* 37(21):3889–389. [doi: 10.1093/bioinformatics/btab576](https://doi.org/10.1093/bioinformatics/btab576).
 
