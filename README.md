@@ -29,3 +29,5 @@
 * Rauschenberger A, Menezes RX, van de Wiel MA, van Schoor NM, and Jonker MA (2018). "Detecting SNPs with interactive effects on a quantitative trait". [arXiv: 1805.09175](https://arxiv.org/abs/1805.09175).
 
 * Rauschenberger A, Jonker MA, van de Wiel MA, and Menezes RX (2016). "Testing for association between RNA-Seq and high-dimensional data". *BMC Bioinformatics* 17:118. [doi: 10.1186/s12859-016-0961-5](https://doi.org/10.1186/s12859-016-0961-5).
+
+For applied projects, see [ORCiD](https://orcid.org/0000-0001-6498-4801) or [Google Scholar](https://scholar.google.com/citations?user=4eZs0s0AAAAJ).
