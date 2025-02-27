@@ -1,5 +1,7 @@
 ## Software
 
+* [sparselink](https://rauschenberger.github.io/sparselink/): Sparse regression for related problems ([GitHub](https://github.com/rauschenberger/sparselink))
+
 * [transreg](https://rauschenberger.github.io/transreg/): Transfer learning ([CRAN](https://cran.r-project.org/package=transreg))
 
 * [cornet](https://rauschenberger.github.io/cornet/): Dichotomised Outcome Regression ([CRAN](https://cran.r-project.org/package=cornet))
@@ -16,9 +18,11 @@
 
 ## Manuscripts
 
-* Rauschenberger A, Landoulsi Z, van de Wiel MA, and Glaab E (2023). "Penalised regression with  multiple sources of prior effects". *Bioinformatics* [doi: 10.1093/bioinformatics/btad680](https://doi.org/10.1093/bioinformatics/btad680).
+* Rauschenberger A, Nazarov PN, and Glaab E (2025). "Estimating sparse regression models in multi-task learning and transfer learning through adaptive penalisation". *Under review*. [ORBilu](https://hdl.handle.net/10993/63425).
 
-* Rauschenberger A, and Glaab E (2023). "Predicting dichotomised outcomes from high-dimensional data in biomedicine". *Journal of Applied Statistics*. [doi: 10.1080/02664763.2023.2233057](https://doi.org/10.1080/02664763.2023.2233057). 
+* Rauschenberger A, Landoulsi Z, van de Wiel MA, and Glaab E (2023). "Penalised regression with multiple sources of prior effects". *Bioinformatics* [doi: 10.1093/bioinformatics/btad680](https://doi.org/10.1093/bioinformatics/btad680).
+
+* Rauschenberger A, and Glaab E (2024). "Predicting dichotomised outcomes from high-dimensional data in biomedicine". *Journal of Applied Statistics*. [doi: 10.1080/02664763.2023.2233057](https://doi.org/10.1080/02664763.2023.2233057). 
 
 * Rauschenberger A, and Glaab E (2021). "Predicting correlated outcomes from molecular data". *Bioinformatics* 37(21):3889–389. [doi: 10.1093/bioinformatics/btab576](https://doi.org/10.1093/bioinformatics/btab576).
 
