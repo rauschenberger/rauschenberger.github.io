@@ -1,6 +1,6 @@
 ## Software
 
-* [sparselink](https://rauschenberger.github.io/sparselink/): Sparse regression for related problems ([GitHub](https://github.com/rauschenberger/sparselink))
+* [sparselink](https://rauschenberger.github.io/sparselink/): Sparse regression for related problems ([CRAN](https://cran.r-project.org/package=sparselink))
 
 * [transreg](https://rauschenberger.github.io/transreg/): Transfer learning ([CRAN](https://cran.r-project.org/package=transreg))
 
@@ -18,7 +18,7 @@
 
 ## Manuscripts
 
-* Rauschenberger A, Nazarov PN, and Glaab E (2025). "Estimating sparse regression models in multi-task learning and transfer learning through adaptive penalisation". *Under review*. [ORBilu](https://hdl.handle.net/10993/63425).
+* Rauschenberger A, Nazarov PN, and Glaab E (2025). "Estimating sparse regression models in multi-task learning and transfer learning through adaptive penalisation". *Bioinformatics*. [doi: 10.1093/bioinformatics/btaf406](https://doi.org/10.1093/bioinformatics/btaf406).
 
 * Rauschenberger A, Landoulsi Z, van de Wiel MA, and Glaab E (2023). "Penalised regression with multiple sources of prior effects". *Bioinformatics* [doi: 10.1093/bioinformatics/btad680](https://doi.org/10.1093/bioinformatics/btad680).
 
